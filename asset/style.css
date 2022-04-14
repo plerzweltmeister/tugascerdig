@@ -79,8 +79,11 @@ aside {
 
 h1 {
   color: black;
-  text-align: left;
   margin: 30 em;}
+
+h2 {
+  text-align: left;
+}
 
 footer {
   padding: 10px;
